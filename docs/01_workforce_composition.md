@@ -22,21 +22,9 @@ JustKaizen's workforce has moved through four distinct phases: hypergrowth from 
 
 ## Where the Decline is Concentrated
 
-The Q1 2026 decline is not uniform. Three departments account for the entire net headcount loss, and all three are customer-facing, revenue-generating functions:
+![Change in Headcount by Department (2025 Q4 vs. 2026 Q1)](../dashboards/02_dept_headcount_change.png)
 
-| Department | Q4 2025 | Q1 2026 | Change | % Change |
-|-----------|---------|---------|--------|----------|
-| Sales | 211 | 200 | -11 | -5.2% |
-| Customer Success | 139 | 130 | -9 | -6.5% |
-| Marketing | 105 | 100 | -5 | -4.8% |
-| Engineering | 415 | 410 | -5 | -1.2% |
-| Product | 100 | 100 | 0 | 0.0% |
-| Data & Analytics | 54 | 55 | +1 | +1.9% |
-| People | 77 | 80 | +3 | +3.9% |
-| G&A | 106 | 110 | +4 | +3.8% |
-| Executive | 14 | 15 | +1 | +7.1% |
-
-G&A, People, and Data & Analytics are growing. The problem is isolated to the go-to-market and product delivery side of the organization.
+The decline is isolated to customer-facing, revenue-generating functions. Customer Success (-6.5%), Sales (-5.2%), and Marketing (-4.8%) account for the entire net headcount loss. Meanwhile, G&A, People, and Executive are growing. This is not an org-wide contraction -- it is a targeted talent drain in the departments closest to revenue.
 
 ### Sub-Department Detail
 
