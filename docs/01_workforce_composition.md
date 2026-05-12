@@ -28,32 +28,17 @@ The decline is isolated to customer-facing, revenue-generating functions. Custom
 
 ### Sub-Department Detail
 
-Within the declining departments, the steepest drops are in specialized, high-impact teams:
+![Headcount Change by Sub-Department (2025 Q4 vs. 2026 Q1)](../dashboards/03_sub_dept_headcount_change.png)
 
-**Customer Success:**
-- CSMs: 49 to 43 (-12.2%). These are the primary customer relationship holders. Losing 6 CSMs in a single quarter increases account load for remaining CSMs and raises churn risk.
-- Customer Education: 24 to 22 (-8.3%)
-- Support: 38 to 36 (-5.3%)
-
-**Sales:**
-- Account Management: 41 to 36 (-12.2%). Account Managers own renewals and expansion revenue. This loss directly impacts net revenue retention.
-- SDR: 47 to 45 (-4.3%)
-- Sales Engineering: 24 to 23 (-4.2%)
-- Account Executive: 56 to 54 (-3.6%)
-- Enterprise Sales: 28 to 27 (-3.6%)
-- Revenue Operations held flat, the only Sales sub-department that did not decline.
-
-**Marketing:**
-- Product Marketing: 21 to 17 (-19.0%). Losing nearly 1 in 5 product marketers in a single quarter severely impacts go-to-market capacity.
-- Content: 16 to 13 (-18.8%). A similar pattern -- small teams absorb outsized impact from even a few departures.
+The steepest drops are in specialized, high-impact teams. Product Marketing (-19%) and Content (-18.8%) each lost nearly 1 in 5 employees in a single quarter. CSMs (-12.2%) and Account Management (-12.2%) carry direct revenue exposure -- CSMs hold account portfolios and Account Managers own renewal pipelines. Every Engineering sub-department declined, with the losses spread broadly rather than concentrated in one team.
 
 ---
 
 ## Why This Matters
 
-The headcount decline is not a budgeting problem. JustKaizen is hiring -- 65 employees started in Q1 2026. The issue is that 104 employees left in the same quarter, creating a net loss of 39. This is an attrition problem masquerading as a growth problem.
+![Quarterly Hires and Terminations (2021 Q1 - 2026 Q1)](../dashboards/04_quarterly_hires_terms.png)
 
-The concentration in customer-facing roles is particularly concerning because these departures have a direct revenue impact: CSMs carry account portfolios, Account Managers own renewal pipelines, and Product Marketers drive positioning for new deals. Each departure creates a coverage gap that takes months to fill, even if a replacement is hired immediately.
+The headcount decline is not a budgeting problem. JustKaizen hired 83 employees in Q1 2026, but 104 left in the same quarter -- a net loss of 21. This is the first quarter since the 2024 Q1 RIF where terminations outpaced hires. Outside of the RIF, the company had never experienced this. This is an attrition problem masquerading as a growth problem.
 
 ---
 
