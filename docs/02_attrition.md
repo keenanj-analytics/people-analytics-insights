@@ -26,6 +26,14 @@ Customer Success (42%), Sales (37%), and Engineering (36%) are running at annual
 
 ---
 
+## Sub-Department Deep Dive
+
+![Annualized Attrition Rate by Sub-Department: Customer Success, Sales, Engineering (Q1 2026)](../dashboards/A5_SubDept_Annualized_Attrition.png)
+
+The sub-department view reveals the sharpest pain points. CSMs are leaving at a 63.6% annualized rate (n=7), which would turn over the entire team in under two years. Customer Education (52.9%) and Account Management (53.6%) follow closely. In Engineering, the losses are broad-based -- every sub-department from DevOps & SRE (46.2%) down to Security (22.2%) is bleeding talent, with Career Opportunities as the universal top reason. The Sales pattern is distinct: Account Management (53.6%) is driven by Manager Relationship issues rather than career growth, pointing to a localized leadership problem rather than a systemic one.
+
+---
+
 ## Why People Are Leaving
 
 ![Termination Reason Distribution (Q1 2026)](../dashboards/A3_Termination_Reason_Distribution.png)
@@ -39,14 +47,6 @@ Career Opportunities is the top reason at 36%, followed by Work-Life Balance (18
 ![Top Performer and Regrettable Attrition Rate by Department (Q1 2026)](../dashboards/A4_Top_Performer_Regrettable_Attrition_Dept.png)
 
 The Executive team stands out at 133% top performer attrition and 200% regrettable attrition (annualized) -- small absolute numbers but structurally destabilizing. Among larger departments, Customer Success has the highest regrettable attrition rate (34%), followed by People (25%), Sales (23%), and Engineering/Marketing/Product (20% each). More than half of all Q1 departures (52%) were classified as regrettable, and 26% were top performers. At the Director level, one-third of departures were top performers. These are the hardest roles to backfill and the most disruptive to lose.
-
----
-
-## Sub-Department Deep Dive
-
-![Annualized Attrition Rate by Sub-Department: Customer Success, Sales, Engineering (Q1 2026)](../dashboards/A5_SubDept_Annualized_Attrition.png)
-
-The sub-department view reveals the sharpest pain points. CSMs are leaving at a 63.6% annualized rate (n=7), which would turn over the entire team in under two years. Customer Education (52.9%) and Account Management (53.6%) follow closely. In Engineering, the losses are broad-based -- every sub-department from DevOps & SRE (46.2%) down to Security (22.2%) is bleeding talent, with Career Opportunities as the universal top reason. The Sales pattern is distinct: Account Management (53.6%) is driven by Manager Relationship issues rather than career growth, pointing to a localized leadership problem rather than a systemic one.
 
 ---
 
