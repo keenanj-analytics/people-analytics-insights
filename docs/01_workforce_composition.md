@@ -12,23 +12,11 @@
 
 ## The Growth Arc
 
-JustKaizen's workforce has moved through four distinct phases:
+![Quarterly Headcount & Growth Rate (2021 Q1 - 2026 Q1)](../dashboards/01_headcount_growth_trend.png)
 
-**Phase 1: Hypergrowth (2021 Q1 -- 2023 Q4).** Headcount grew from 133 to 1,235, a 3-year compound annual growth rate of 110%. The company roughly doubled every year, adding an average of 30+ employees per month. Growth was broad-based across all departments as the company scaled from Series A through late-stage fundraising.
+*\*2024 Q1 decline reflects a planned reduction in force (150 employees), not organic attrition. Engineering (40), Sales (35), and Marketing (20) absorbed the largest cuts.*
 
-**Phase 2: Reduction in Force (2024 Q1).** In Q1 2024, JustKaizen executed a reduction in force, cutting 150 employees. Net headcount dropped from 1,235 to 1,118, a 9.5% decline. Engineering (40), Sales (35), and Marketing (20) absorbed the largest cuts. Hiring froze for the remainder of 2024, and headcount drifted down slightly to 1,100 by year-end.
-
-**Phase 3: Recovery (2025).** Hiring resumed in 2025. Headcount grew from 1,115 to 1,221 over the course of the year, a 9.5% increase. Growth was steady and distributed across departments, restoring headcount close to pre-RIF levels.
-
-**Phase 4: Unexpected Decline (2026 Q1).** Headcount dropped from 1,221 to 1,200, a 1.7% decline. This was not planned. JustKaizen's target is 3% annual growth, which would require reaching 1,258 by end of 2026. Instead, the company moved in the wrong direction.
-
-| Period | Start | End | Change |
-|--------|-------|-----|--------|
-| 2021 Q1 -- 2023 Q4 | 133 | 1,235 | +829% |
-| 2024 Q1 (RIF) | 1,235 | 1,118 | -9.5% |
-| 2024 Q2 -- Q4 (Freeze) | 1,118 | 1,100 | -1.6% |
-| 2025 Full Year | 1,115 | 1,221 | +9.5% |
-| 2026 Q1 | 1,221 | 1,200 | -1.7% |
+JustKaizen's workforce has moved through four distinct phases: hypergrowth from 2021-2023 (133 to 1,235 employees, 110% CAGR), a reduction in force in Q1 2024 that dropped headcount 9.5% to 1,118, a recovery year in 2025 that restored headcount to 1,221, and an unexpected 1.7% decline in Q1 2026 to 1,200. The company's target of 3% annual growth (1,258 by year-end 2026) is now at risk.
 
 ---
 
