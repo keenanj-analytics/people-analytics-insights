@@ -1,16 +1,18 @@
-# 1. Workforce Composition
+# 1. Headcount Growth
 
 **Question:** Is the organization growing at a healthy rate? Where is growth concentrated?
 
 ---
 
-## Key Findings
+## Summary of Findings
 
-**JustKaizen's headcount declined 1.7% in Q1 2026, reversing the recovery trajectory and falling short of the 3% annual growth target.** The decline is concentrated in three revenue-generating departments -- Customer Success, Sales, and Marketing -- where attrition is outpacing hiring. At the current pace, JustKaizen will end 2026 below its target of 1,258 employees unless hiring velocity increases or attrition is addressed.
+1. JustKaizen's workforce declined 1.7% in Q1 2026, reversing the recovery trajectory and falling short of the 3% annual growth target
+2. Headcount decline is concentrated in revenue-generating functions -- Customer Success (-6.5%), Sales (-5.2%), Marketing (-4.8%), and Engineering (-1.2%)
+3. CSMs, Account Management, Product Marketing, and Content teams experienced the sharpest headcount declines; all Engineering sub-departments declined broadly
 
 ---
 
-## The Growth Arc
+## 1 - Although headcount growth stabilized post-RIF, JustKaizen's workforce declined by 2% in Q1 2026
 
 ![Quarterly Headcount & Growth Rate (2021 Q1 - 2026 Q1)](../dashboards/01_headcount_growth_trend.png)
 
@@ -20,21 +22,7 @@ JustKaizen's workforce has moved through four distinct phases: hypergrowth from 
 
 ---
 
-## Where the Decline is Concentrated
-
-![Change in Headcount by Department (2025 Q4 vs. 2026 Q1)](../dashboards/02_dept_headcount_change.png)
-
-The decline is isolated to customer-facing, revenue-generating functions. Customer Success (-6.5%), Sales (-5.2%), and Marketing (-4.8%) account for the entire net headcount loss. Meanwhile, G&A, People, and Executive are growing. This is not an org-wide contraction -- it is a targeted talent drain in the departments closest to revenue.
-
-### Sub-Department Detail
-
-![Headcount Change by Sub-Department (2025 Q4 vs. 2026 Q1)](../dashboards/03_sub_dept_headcount_change.png)
-
-The steepest drops are in specialized, high-impact teams. Product Marketing (-19%) and Content (-18.8%) each lost nearly 1 in 5 employees in a single quarter. CSMs (-12.2%) and Account Management (-12.2%) carry direct revenue exposure -- CSMs hold account portfolios and Account Managers own renewal pipelines. Every Engineering sub-department declined, with the losses spread broadly rather than concentrated in one team.
-
----
-
-## Why This Matters
+## 2 - Employee turnover outpaced hiring for the first time since the RIF, with 104 terminations and 83 hires in Q1 2026
 
 ![Quarterly Hires and Terminations (2021 Q1 - 2026 Q1)](../dashboards/04_quarterly_hires_terms.png)
 
@@ -42,11 +30,19 @@ The headcount decline is not a budgeting problem. JustKaizen hired 83 employees 
 
 ---
 
-## Recommended Actions
+## 3 - Headcount decline is concentrated in revenue-generating functions
 
-1. **Prioritize backfill hiring in Customer Success and Sales.** These are the two departments where headcount loss has the most immediate revenue impact. Focus recruiting capacity on CSM, Account Management, and Product Marketing roles.
-2. **Investigate why these departments are losing people.** The workforce composition data shows *where* the problem is, but the *why* lives in the attrition analysis ([Section 2](02_attrition.md)). The answer is not headcount planning -- it is retention.
-3. **Reforecast the 2026 headcount target.** At the current trajectory (Q1 annualized: -6.8%), JustKaizen would end 2026 at approximately 1,138 employees, 120 below target. The People team should present a revised forecast to leadership that accounts for current attrition trends and realistic hiring capacity.
+![Change in Headcount by Department (2025 Q4 vs. 2026 Q1)](../dashboards/02_dept_headcount_change.png)
+
+The decline is isolated to customer-facing, revenue-generating functions. Customer Success (-6.5%), Sales (-5.2%), and Marketing (-4.8%) account for the entire net headcount loss. Meanwhile, G&A, People, and Executive are growing. This is not an org-wide contraction -- it is a targeted talent drain in the departments closest to revenue.
+
+---
+
+## 4 - CSMs, Account Management, Product Marketing, and Content experienced the sharpest declines; all Engineering sub-departments declined broadly
+
+![Headcount Change by Sub-Department (2025 Q4 vs. 2026 Q1)](../dashboards/03_sub_dept_headcount_change.png)
+
+The steepest drops are in specialized, high-impact teams. Product Marketing (-19%) and Content (-18.8%) each lost nearly 1 in 5 employees in a single quarter. CSMs (-12.2%) and Account Management (-12.2%) carry direct revenue exposure -- CSMs hold account portfolios and Account Managers own renewal pipelines. Every Engineering sub-department declined, with the losses spread broadly rather than concentrated in one team.
 
 ---
 
