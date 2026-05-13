@@ -18,7 +18,15 @@
 
 *\*2024 Q1 decline reflects a planned reduction in force (150 employees), not organic attrition. Engineering (40), Sales (35), and Marketing (20) absorbed the largest cuts.*
 
-JustKaizen's workforce has moved through four distinct phases: hypergrowth from 2021-2023 (133 to 1,235 employees, 110% CAGR), a reduction in force in Q1 2024 that dropped headcount 9.5% to 1,118, a recovery year in 2025 that restored headcount to 1,221, and an unexpected 1.7% decline in Q1 2026 to 1,200. The company's target of 3% annual growth (1,258 by year-end 2026) is now at risk.
+JustKaizen's workforce has moved through four distinct phases:
+
+**Phase 1 (Hypergrowth):** Between 2021-2023 the company grew from 133 to 1,235 employees, 110% CAGR, as the company raised significant capital and was trying to capture market share.
+
+**Phase 2 (RIF):** In 2024 Q1 the company reduced headcount by 9.5%, a targeted correction due to overstaffing. Headcount remained flat throughout the year as the board pushed for a path to profitability.
+
+**Phase 3 (Recovery):** After raising Series D ($150M), the company right-sized, stabilized unit economics, and resumed disciplined growth.
+
+**Phase 4 (Unexpected Decline):** The company set a conservative target of 3% growth rate to prove profitability; however in 2026 Q1, headcount declined by 1.7%.
 
 ---
 
