@@ -66,4 +66,4 @@ The company has invested in identifying and rating its top talent through a stru
 
 ---
 
-*Data source: fct_performance_distribution, fct_employee_roster. Top performer = most recent performance rating of 4+ (Exceeds or Significantly Exceeds Expectations) or critical talent flag. Rating distribution reflects active employees from the 2025 Year-End Review Cycle. Replacement cost estimates reference the Center for American Progress methodology.*
+[← Previous: Engagement](05_engagement.md) | [Back to Report Summary](../README.md) | [Next: Cross-Domain Insights →](07_cross_domain_insights.md)

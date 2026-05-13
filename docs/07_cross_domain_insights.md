@@ -81,4 +81,4 @@ The common thread is that each population's problem has a *specific, identifiabl
 
 ---
 
-*This section synthesizes findings from all six domain analyses. No new data sources are introduced. All figures reference the same time period (Q1 2026) and the same data infrastructure documented in the companion repository.*
+[← Previous: Performance](06_performance.md) | [Back to Report Summary](../README.md)

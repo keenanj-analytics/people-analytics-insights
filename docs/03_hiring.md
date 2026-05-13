@@ -68,4 +68,4 @@ The hiring pipeline data does not exist in isolation. When combined with attriti
 
 ---
 
-*Data source: fct_recruiting_reporting, fct_recruiting_velocity, raw_offers_hires. Offer acceptance rate = offers accepted / offers extended. Time-to-fill = calendar days from requisition open date to candidate start date. TTM = trailing twelve-month. R3M = trailing three-month. SHRM benchmark of 90% offer acceptance rate cited from SHRM annual talent acquisition benchmarking reports. Time-to-fill typical range (25-42 days) sourced from [The Resource Group](https://www.theresource.com/2025/10/13/average-time-to-hire/).*
+[← Previous: Attrition](02_attrition.md) | [Back to Report Summary](../README.md) | [Next: Compensation →](04_compensation.md)

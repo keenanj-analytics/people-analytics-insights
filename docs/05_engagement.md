@@ -56,4 +56,4 @@ Employee Engagement and Culture & Values score highest across the board (3.6-3.9
 
 ---
 
-*Data source: fct_engagement_trends. eNPS = 100 × (% Promoter - % Detractor) on a 0-10 scale. Theme scores are on a 1-5 Likert scale. Survey data is anonymized at the department level; individual-level engagement scores are not available.*
+[← Previous: Compensation](04_compensation.md) | [Back to Report Summary](../README.md) | [Next: Performance →](06_performance.md)

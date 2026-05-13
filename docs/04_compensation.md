@@ -68,4 +68,4 @@ The compensation data becomes most valuable when layered with the attrition find
 
 ---
 
-*Data source: fct_compensation_reporting, fct_employee_roster. Compa-ratio = employee salary / compensation band midpoint. Below band = compa-ratio < 0.85. Above band = compa-ratio > 1.15. All figures reflect active employees as of Q1 2026.*
+[← Previous: Hiring Pipeline](03_hiring.md) | [Back to Report Summary](../README.md) | [Next: Engagement →](05_engagement.md)

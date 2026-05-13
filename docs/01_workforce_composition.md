@@ -54,4 +54,4 @@ The steepest drops are in specialized, high-impact teams. Product Marketing (-19
 
 ---
 
-*Data source: fct_workforce_composition, fct_employee_roster. Headcount is measured as active employees at end of month/quarter. Growth rates are calculated as (end / start - 1).*
+[← Back to Report Summary](../README.md) | [Next: Attrition →](02_attrition.md)
