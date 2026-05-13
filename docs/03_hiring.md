@@ -9,7 +9,6 @@
 1. JustKaizen's offer acceptance rate has hovered in the 51-62% range for five years, never once approaching the SHRM benchmark of 90%. The company is generating candidates but losing nearly half at the offer stage.
 2. Engineering and Customer Success -- the two departments with the highest attrition -- also have the lowest offer acceptance rates, creating a compounding talent problem.
 3. Average time-to-fill sits at 49 days, consistently above the typical industry range of 25-42 days. Engineering has the longest time-to-fill in the organization.
-4. When combined with attrition, the hiring gap is unsustainable: Engineering lost 38 and hired 33 (net -5), Customer Success lost 15 and hired 6 (net -9), Sales lost 19 and hired 8 (net -11).
 
 ---
 
@@ -44,18 +43,6 @@ Q1 2026 ticked up to 49 days, the highest point since 2021 Q2. While the trend i
 ![Time-to-Fill by Department (Q1 2026)](../dashboards/H4_Department_Time_to_Fill.png)
 
 Engineering's extended timeline has a multiplicative effect: each additional day of vacancy across dozens of open positions represents significant lost productivity. Sales has the fastest time-to-fill, which is expected -- sales roles typically have larger candidate pools, more standardized interviews, and faster decision timelines than technical roles.
-
----
-
-## 5 - The compounding problem: attrition is outpacing hiring in the three largest revenue-generating departments
-
-The hiring pipeline data does not exist in isolation. When combined with attrition data from [Section 2](02_attrition.md), the picture becomes clear:
-
-**Engineering:** 38 departures in Q1, 33 hires. Net: -5. But only 50% of offers are accepted, meaning Engineering actually needed to extend 66 offers to get those 33 hires. At ~49 days per hire, each backfill represents nearly two months of vacancy. And 53% of those departures were regrettable -- people the company wanted to keep.
-
-**Customer Success:** 15 departures, 6 hires. Net: -9. With a ~46% acceptance rate, CS needed to extend roughly 13 offers to get 6 hires. The department is shrinking because it cannot hire fast enough to offset voluntary attrition.
-
-**Sales:** 19 departures, 8 hires. Net: -11. The largest absolute headcount loss. While Sales has the fastest time-to-fill, the volume gap between departures and hires is too large for speed alone to solve.
 
 ---
 
