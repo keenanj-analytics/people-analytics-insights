@@ -47,4 +47,4 @@ Top Performer Attrition is most elevated in G&A (18.9% annualized) followed by S
 
 ---
 
-[← Previous: Headcount Growth](01_workforce_composition.md) | [Back to Report Summary](../README.md) | [Next: Hiring Pipeline →](03_hiring.md)
+[← Previous: Headcount Growth](01_headcount_growth.md) | [Back to Report Summary](../README.md) | [Next: Hiring Pipeline →](03_hiring.md)
