@@ -40,7 +40,7 @@ Top performer attrition rate also increased to 11% (annualized) from 7% the prev
 
 JustKaizen's offer acceptance rate has hovered in the 51-62% range for five years, well below the SHRM benchmark of 90%. The company is generating candidates but losing nearly half at the offer stage.
 
-![Companywide Offer Acceptance Rate](dashboards/H1_Overall_Offer_Acceptance.png)
+![Hiring Pipeline](dashboards/RM_Hiring_Pipeline.png)
 
 Engineering, the largest department and the one losing the most people, has a 50% offer acceptance rate. Average time-to-fill sits at 49 days, consistently above the typical industry range of 25-42 days. [Full Hiring Pipeline Report →](docs/03_hiring.md)
 
