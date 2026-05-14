@@ -30,11 +30,11 @@ After three years of hypergrowth (133 to 1,235 employees, 110% CAGR from 2021 to
 
 ### Attrition
 
-The root cause is attrition outpacing hiring. Overall attrition rate grew to 33% (TTM) in Q1 2026 from 23% the previous quarter, mainly driven by a spike in voluntary attrition.
+The root cause is attrition. Overall attrition rate grew to 33% (annualized) in 2026 Q1 from 23%; driving up the company's TTM attrition rate by 6 pp. This is mainly driven by a spike in voluntary attrition.
 
-![Quarterly Attrition Rates](dashboards/A1_Attrition_Quarterly_TTM.png)
+![Quarterly Attrition Rates](dashboards/RM_attrition.png)
 
-Over half of departures (52%) are regrettable, and 26% involve top performers. The highest-attrition departments -- Customer Success (42%), Sales (37%), and Engineering (36%) -- are also the company's three largest revenue-generating functions. [Full Attrition Report →](docs/02_attrition.md)
+Top performer attrition rate also increased to 11% (annualized) from 7% the previous quarter. While Executive has the highest department attrition rate, its small sample size skews the number; the more meaningful signal is in the three largest revenue-generating functions: Customer Success (42%), Sales (37%), and Engineering (36%). [Full Attrition Report →](docs/02_attrition.md)
 
 ### Hiring Pipeline
 
@@ -88,4 +88,4 @@ Top talent is concentrated in Engineering (n=126) and Sales (n=58) -- the same d
 
 ## About
 
-Analysis by **[Keenan Artis](https://www.linkedin.com/in/keenanjeffreyartis/)**, an analytics engineer with 7+ years across forensics analytics (PwC) and people analytics. This analysis is modeled after executive workforce reviews delivered to CHROs and VPs of People at a 1,200-person tech company, adapted for portfolio presentation. All data is synthetic; all analytical frameworks, business logic, and interpretive narratives are original work by the author.
+Analysis by **[Keenan Artis](https://www.linkedin.com/in/keenanjeffreyartis/)**, an analytics engineer with 7+ years across forensics analytics (PwC) and people analytics. This analysis is modeled after executive workforce reviews delivered to CHROs and People Leadership Teams at a 1,200-person tech company, adapted for portfolio presentation. All data is synthetic; all analytical frameworks, business logic, and interpretive narratives are original work by the author.
