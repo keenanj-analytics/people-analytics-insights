@@ -64,9 +64,21 @@ Sales has the lowest engagement scores across nearly every theme (3.4-3.6 range)
 
 The performance rating distribution is healthy (55% Meets Expectations, clean bell curve) with 31% of active employees classified as top performers.
 
-![Top Performers by Department](dashboards/P3_Top_Performers_Department.png)
+![Performance](dashboards/RM_Performance.png)
 
 Top talent is concentrated in Engineering (n=126) and Sales (n=58) -- the same departments experiencing elevated attrition. The question is not whether the distribution is healthy, but whether the company is retaining the talent it has identified as most valuable. [Full Performance Report →](docs/06_performance.md)
+
+---
+
+### Recommended Priorities
+
+In order to hit the target year-end headcount of 1,258, the company needs to close a gap of 58 employees while reversing a negative growth trend. That requires both slowing attrition and improving hiring conversion. I recommend the following 3 priorities:
+
+**1. Reprice compensation bands in Engineering and Customer Success to market.** These two departments have the highest attrition rates (36% and 42%), the lowest offer acceptance rates, and both sit below the org-wide compa-ratio midpoint at 0.99. Internal equity is strong; the problem is where the bands are set relative to the external market. Compensation is the #3 termination reason (15%) and the most direct lever to improve both retention and offer acceptance simultaneously.
+
+**2. Build visible career pathing in high-attrition functions.** Career Opportunities is the #1 reason employees leave (36%), and Career Growth is the lowest-scoring engagement theme org-wide. This is especially acute in Customer Success, where engagement is high (eNPS 71) but people are still leaving; they're productive and engaged right up until a recruiter offers them a title bump and a raise.
+
+**3. Investigate manager effectiveness in Sales.** Sales has the lowest engagement scores across nearly every theme (3.4-3.6), and Manager Relationship is the #1 attrition driver in Sales at 26% (vs. 10% org-wide). Their lower eNPS of 46 confirms they are less engaged. With 37% attrition and the second-largest top performer pool (n=58), this is a retention risk that compensation alone won't fix.
 
 ---
 
